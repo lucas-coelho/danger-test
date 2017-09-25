@@ -1,0 +1,24 @@
+{
+  "name": "danger-test",
+  "version": "1.0.0",
+  "description": "Danger Test",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-coelho/danger-test.git"
+  },
+  "author": "Lucas Coelho <lucasbcoelho@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucas-coelho/danger-test/issues"
+  },
+  "homepage": "https://github.com/lucas-coelho/danger-test#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.4.1",
+    "npm": "5.3.0",
+    "yarn": "0.27.5"
+  }
+}
